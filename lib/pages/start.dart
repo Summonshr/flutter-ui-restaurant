@@ -11,6 +11,7 @@ class Start extends StatelessWidget {
       body: Container(
         height: height,
         width: width,
+        padding: EdgeInsets.only(top: 20.0),
         decoration: BoxDecoration(
             color: Colors.yellow.shade800,
             image: DecorationImage(
@@ -39,7 +40,7 @@ class Start extends StatelessWidget {
                               color: Colors.grey, fontSize: 15.0, height: 1.5)),
                     ),
                     Padding(
-                      padding: const EdgeInsets.all(8.0),
+                      padding: const EdgeInsets.all(10.0),
                       child: SizedBox(
                         width: double.infinity,
                         height: height / 15,
