@@ -1,4 +1,4 @@
-# Meds UI
+# Restaurant UI / Food Delivery App
 
 Restaurant / Food Delivery UI made with flutter
 
